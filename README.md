@@ -4,7 +4,7 @@ This is my solution to the [Chat App CSS Illustration Challenge](https://www.fro
 
 ## 📸 Screenshot
 
-![(./chat-app.jpg)]
+![Screenshot](./chat-app.jpg)
 
 ## 🔗 Links
 
@@ -63,8 +63,8 @@ In future iterations, I plan to:
 
 ## 👤 Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
+- Frontend Mentor - [@callmesophiii](https://www.frontendmentor.io/profile/callmesophiii)
+- GitHub - [@callmesophiii](https://github.com/callmesophiii)
 
 ## 🙌 Acknowledgments
 
