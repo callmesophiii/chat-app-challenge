@@ -4,19 +4,17 @@ This is my solution to the [Chat App CSS Illustration Challenge](https://www.fro
 
 ## 📸 Screenshot
 
-!(./chat-app.jpg)
+![(./chat-app.jpg)]
 
 ## 🔗 Links
 
-- **Solution URL:** [https://github.com/your-username/chat-app-solution](https://github.com/your-username/chat-app-solution)
-- **Live Site URL:** [https://yourusername.github.io/chat-app-solution](https://yourusername.github.io/chat-app-solution)
+- **Solution URL:** [https://github.com/callmesophiii/chat-app-challenge.git)]
 
 ## 🔧 Built With
 
 - Semantic HTML5
 - CSS3 with custom properties (variables)
 - Flexbox & Bootstrap Grid
-- Responsive mobile-first design
 - Google Fonts (Rubik)
 - Bootstrap 5 for responsive layout
 
