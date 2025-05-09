@@ -4,7 +4,7 @@ This is my solution to the [Chat App CSS Illustration Challenge](https://www.fro
 
 ## 📸 Screenshot
 
-![Screenshot](./chat-app.jpg)
+![Screenshot](./chat-app.png)
 
 ## 🔗 Links
 
